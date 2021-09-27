@@ -20,12 +20,14 @@ body{
     width: fit-content;
     padding: 5px;
   }
-  .description{
+  .designTipografy{
     font-family: 'Montserrat', sans-serif;  
     font-size: 14px;
+    color: #0e678d;
+  }
+  .bold{
     color: #05445E;
   }
-  
   /* left-side */
   .container .left-side{
     width: 280px;
@@ -45,18 +47,12 @@ body{
     border-radius: 50%;
     background: #333652;
   }
-  .linkedin{
+  
+  .pDesign{
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
   }
-  .github{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-  }
-  .gmail{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-  }
+
   /* right-side */
   .container .right-side{
     width: 520px;
