@@ -23,11 +23,17 @@ body{
   .designTipografy{
     font-family: 'Montserrat', sans-serif;  
     font-size: 14px;
-    color: #0e678d;
+    color: #5D6980;
   }
   .bold{
     color: #05445E;
   }
+  /* project */
+  .project,.descriptionTec{
+    color: #000;
+    font-size: 15px;
+  }
+ 
   /* left-side */
   .container .left-side{
     width: 280px;
@@ -56,7 +62,7 @@ body{
   /* right-side */
   .container .right-side{
     width: 520px;
-    background: #E9EAEC;
+    background: #EFECEC;
     padding: 25px;
   }
   .container .right-side .full_name {
